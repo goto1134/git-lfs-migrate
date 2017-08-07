@@ -66,7 +66,7 @@ cd git-lfs-migrate-converted.git
 git fsck && git push --mirror git@github.com:bozaro/git-lfs-migrate-converted.git
 ```
 
-After that you with have:
+After that you will have:
 
  * New repository bozaro/git-lfs-migrate-converted
  * All *.md and *.jar in this repository will stored in LFS storage
